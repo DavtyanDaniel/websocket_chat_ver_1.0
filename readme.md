@@ -18,7 +18,7 @@ whom he/she wants to connect or enter to the group chat.
  - pip3
 ​
 # Installation
-  - Clone the latest version from https://github.com/DavtyanDaniel/websocket_chat_ver_0.3 
+  - Clone the latest version from https://github.com/DavtyanDaniel/websocket_chat_ver_1.0 
   - Install the dependencies (It is highly recommended to create isolated environment!)
   ```sh
   python3 -m venv my_env
