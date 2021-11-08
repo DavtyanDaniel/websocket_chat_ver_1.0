@@ -1,10 +1,10 @@
 # Introduction
 #### This is a chat that allows clients to connect with each other either in group
 #### chat or private with each other.
-When client connects to server hw have to write his nickname,and after it choose with 
+When client connects to server he/she have to write his/her nickname,and after it choose with 
 whom he/she wants to connect or enter to the group chat.
 
-##### If client wants to change the room he has to write in console "CHANGE ROOM"
+##### If client wants to change the room he/she has to write in console "CHANGE ROOM"
 ##### command.
 
 
